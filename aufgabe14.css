@@ -1,0 +1,66 @@
+
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+button {
+	margin-top: 5px;
+}
+
+
+.jumbotron {
+	background-color: #5bc0de;
+}
+
+.form-group {
+	margin: 0px;
+	padding: 0px;
+}
+
+.form-control {
+	margin-right: 0px;
+	padding-right: 0px;
+}
+
+.list-group {
+	border-radius: 6px;
+}
+
+.list-group-item {
+	background-color: #5bc0de;
+}
+
+
+#user-input {
+	margin-top: 5px;
+	margin-right: 5px;
+	width: 50px;
+}
+
+#input_k {
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-bottom: 5px;
+	width: 200px;
+}
+
+#btn_start {
+	margin-bottom: 10px;
+	width: 150px;
+}
+
+#field-left {
+	background-color:  #5bc0de; /*#eee;*/
+	border-radius: 6px;
+	margin-bottom: 10px;
+	
+
+}
+
+
+
